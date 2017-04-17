@@ -1056,6 +1056,7 @@ h4.active .t_ico { background-position: 5px -19px; background-color: #464646 }
 .social_links.instagram_account 				{ background-position: -40px	-1159px;}
 .social_links.instagram_account:hover 	{ background-position: 100% 	-1159px;}
 
+.entry-content    { padding: 10px; }
 
 /* upcoming events */
 ul.upcoming_events { list-style: none; margin: 0; padding: 0 }
